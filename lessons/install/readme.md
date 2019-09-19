@@ -53,7 +53,7 @@ I think. I did not actually install python but I can find it in the Terminal.
 
 In the Terminal:
 
-Python 3.7.3 
+Python 3.7.3. I created another environment to be able to use Python 3.6 though (from online help of course).
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
